@@ -119,7 +119,7 @@ def main():
             delete_transaction(index)
 
         elif choice == "4":
-            # Show balance which iws calculated by total Incoome - expenses = Balance
+            # Show balance which is calculated by total Income - expenses 
             print(view_balance())
 
         elif choice == "5":
