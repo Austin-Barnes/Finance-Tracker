@@ -1,5 +1,5 @@
 # Finance-Tracker
-This financal tracker is a unser friendly way to keep track of your transactions, expenses, income, and your balance. It includes many features such as adding and removing transactions, updating transactions, viewing transactions, view balance, and view summary. In this file I will explain how all of the options work and what they do, as well as what some of the main functions, and the Libraries used as well as the documentation of any open-source or copyright materials used.
+This financal tracker is a user friendly way to keep track of your transactions, expenses, income, and your balance. It includes many features such as adding and removing transactions, updating transactions, viewing transactions, view balance, and view summary. In this file I will explain how all of the options work and what they do, as well as what some of the main functions, and the Libraries used as well as the documentation of any open-source or copyright materials used.
 
 
 When you first run the program you will be brought to a menu that looks like this:
